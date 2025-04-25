@@ -18,6 +18,22 @@ Email Me 👉 ✉️ **souravkumar85055@gmail.com** For Collaboration/Project or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <circle cx="100" cy="100" r="30" fill="url(#grad)">
+      <animate attributeName="cy" values="100;120;100" dur="1s" repeatCount="indefinite" />
+      <animate attributeName="r" values="30;25;30" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <defs>
+      <radialGradient id="grad" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(0,255,150);stop-opacity:1" />
+      </radialGradient>
+    </defs>
+  </svg>
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sourav842741&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
