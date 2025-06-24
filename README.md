@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sourav Kumar
-**A passionate Bakend Engineer Engineer**
+**A passionate Bakend Engineer**
 
 Email Me 👉 ✉️ **souravkumar85055@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
