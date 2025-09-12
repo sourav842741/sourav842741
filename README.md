@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **souravkumar85055@gmail.com** For Collaboration/Project or
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourav_kumar_07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav_kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravkumar85055@gmail.com) 
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourav_kumar_07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-01250b30b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravkumar85055@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
