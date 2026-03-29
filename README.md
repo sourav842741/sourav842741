@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **souravkumar85055@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** logicstore Bakend
-- 🌱 **I’m currently learning:** AWS Cloud Computing
-- 🤔 **I’m looking for help with:** Airnbn clone
+- 🔭 **I’m currently working on:** Place-Mentor
+- 🌱 **I’m currently learning:** Next Js
+- 🤔 **I’m looking for help with:** Place-Mentor
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** souravkumar85055@gmail.com
 - 😄 **Pronouns:** Sourav kumar
